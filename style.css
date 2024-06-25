@@ -1,0 +1,54 @@
+
+body{
+    text-align: center;
+    background-color: rgb(226, 250, 195);
+}
+.winner{
+    height: 150px;
+}
+#msg{
+    font-weight: bolder;
+    font-size: xx-large;
+    color: rgb(242, 159, 87);
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+.board{
+    height: 400px;
+    width: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
+    height: 100px;
+    width: 100px;
+    padding: 6px;
+    margin: 12px; 
+    background-color: rgb(242, 159, 87);
+    font-size:xx-large ;
+    font-weight: bold;
+    color: black;
+    border:none ;
+    border-radius: 9px;
+}
+.reset-btn, .new-game-btn{
+    width: 130px;
+    height: 40px;
+    background-color: rgb(176, 242, 101);
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+    border: 4px solid rgb(134, 246, 6);
+    border-radius: 20%;
+}
+
+.hide{
+    display: none;
+}
