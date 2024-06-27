@@ -52,3 +52,18 @@ body{
 .hide{
     display: none;
 }
+@media (max-width: 480px){
+    .main{
+        height: 400px;
+    }
+    .board{
+        height: 250px;
+        width: 250px;
+    }
+    .btn{
+        height: 70px;
+        width: 70px;
+        padding: 3px;
+        margin: 6px;
+    }
+}
