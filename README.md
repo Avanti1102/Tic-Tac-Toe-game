@@ -23,7 +23,8 @@ Welcome to **Tic-Tac-Toe Game**! This project is simple Tic Tac Toe game with at
 
 ## 📞 Contact
 
-Project Link: [Tic-Tac-Toe Game](https://github.com/Avanti1102/Tic-Tac-Toe-game)
+Source code Link: [Tic-Tac-Toe Game](https://github.com/Avanti1102/Tic-Tac-Toe-game)
+Project Link : [Open game]( https://avanti1102.github.io/Tic-Tac-Toe-game/)
 
 ---
 
